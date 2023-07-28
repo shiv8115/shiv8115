@@ -2,10 +2,6 @@
 <h3 align="center">A passionate Blockchain developer from India</h3>
 <img align = "right" width = "400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shiv8115&label=Profile%20views&color=0e75b6&style=flat" alt="shiv8115" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiv8115" alt="shiv8115" /></a> </p>
-
 - 🔭 I’m currently working on **Blockchain**
 
 - 🌱 I’m currently learning **DeFi protocols and Advance Blockchain**
