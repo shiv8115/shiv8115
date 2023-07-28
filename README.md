@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Singh</h1>
 <h3 align="center">A passionate Blockchain developer from India</h3>
+<img align = "right" width = "400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiv8115&label=Profile%20views&color=0e75b6&style=flat" alt="shiv8115" /> </p>
 
@@ -13,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Open source project**
 
-- 💬 Ask me about **Solidity,NFTs,Cryptocurrency,Data structures and Algorithms, Blockchain, JavaScript, Nodejs, C++, Database**
+- 💬 Ask me about **Solidity, NFTs, Cryptocurrency, Data structures and Algorithms, Blockchain, JavaScript, Nodejs, C++, Database**
 
 - 📫 How to reach me **sk811585@gmail.com**
 
