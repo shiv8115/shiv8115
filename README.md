@@ -6,7 +6,7 @@
 
 - 🌱 My interest lies in **NFTs, Marketplaces, Decentralised Finance and Blockchain development** in general.
 
-- 👯 I’m looking to collaborate on **Advance Blockchain**
+- 👯 I’m looking to collaborate on **Blockchain based project**
 - 🥇 I'm an expert in Solidity for smart contract development and have been actively doing smart contract auditing which also helps me to write optimized and secure contracts.
 - 💬 Ask me about **Solidity, NFTs, Cryptocurrency, Data structures and Algorithms, Blockchain, JavaScript, Nodejs, C++, Database**
 
