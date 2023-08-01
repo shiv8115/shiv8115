@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Blockchain**
 
-- 🌱 I’m currently learning **DeFi protocols and Advance Blockchain**
+- 🌱 I’m currently learning **DeFi protocols and Advance Application of Blockchain**
 
 - 👯 I’m looking to collaborate on **Advance Blockchain**
 
@@ -15,6 +15,22 @@
 - 📫 How to reach me **sk811585@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1lPCp51akQbWcufD0GbwH9WTvFiT2sYzu/view?usp=sharing](https://drive.google.com/file/d/1lPCp51akQbWcufD0GbwH9WTvFiT2sYzu/view?usp=sharing)
+## Skills:
+
+- Ethereum
+- Layer 2(Polygon)
+- NFTs
+- DeFi
+- Solidity
+- Hardhat
+- Foundry
+- Javascript
+- Mocha
+- Chai
+- Problem Solving
+- Data Structures
+- Node
+- React
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
