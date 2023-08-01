@@ -2,14 +2,12 @@
 <h3 align="center">A passionate Blockchain developer from India</h3>
 <img align = "right" width = "400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
 
-- 🔭 I’m currently working on **Blockchain**
+- 🔭 I'm an experienced **solidity developer** with expertise in understanding and delivering software solutions based on business requirements.
 
-- 🌱 I’m currently learning **DeFi protocols and Advance Application of Blockchain**
+- 🌱 My interest lies in **NFTs, Marketplaces, Decentralised Finance and Blockchain development** in general.
 
 - 👯 I’m looking to collaborate on **Advance Blockchain**
-
-- 🤝 I’m looking for help with **Open source project**
-
+- 🥇 I'm an expert in Solidity for smart contract development and have been actively doing smart contract auditing which also helps me to write optimized and secure contracts.
 - 💬 Ask me about **Solidity, NFTs, Cryptocurrency, Data structures and Algorithms, Blockchain, JavaScript, Nodejs, C++, Database**
 
 - 📫 How to reach me **sk811585@gmail.com**
