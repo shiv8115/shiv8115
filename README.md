@@ -2,34 +2,33 @@
 <h3 align="center">A passionate Blockchain developer from India</h3>
 <img align = "right" width = "400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
 
-- 🔭 I'm an experienced **solidity developer** with expertise in understanding and delivering software solutions based on business requirements.
+🚀 I'm a **Full Stack Blockchain Developer** with a strong foundation in JavaScript, Solidity, Web3, and ReactJS. I specialize in creating and optimizing smart contracts for NFTs, Marketplaces, and DeFi applications. I'm passionate about leveraging blockchain technology to build innovative solutions that align with business requirements.
 
-- 🌱 My interest lies in **NFTs, Marketplaces, Decentralised Finance and Blockchain development** in general.
+🔭 With a deep understanding of both front-end and back-end technologies, I'm able to deliver comprehensive, end-to-end software solutions. My expertise extends to database management, ensuring seamless data flow and storage in all my projects.
 
-- 👯 I’m looking to collaborate on **Blockchain based project**
-- 🥇 I'm an expert in Solidity for smart contract development and have been actively doing smart contract auditing which also helps me to write optimized and secure contracts.
-- 💬 Ask me about **Solidity, NFTs, Cryptocurrency, Data structures and Algorithms, Blockchain, JavaScript, Nodejs, C++, Database**
+🏆 Proficient in Ethereum and Layer 2 solutions like Polygon, I'm well-versed in the latest blockchain technologies and trends. I'm also skilled in testing frameworks like Mocha and Chai, which I use to ensure the reliability and security of my code.
 
-- 📫 How to reach me **sk811585@gmail.com**
+🔍 I'm always eager to take on new challenges and actively seeking collaborations on blockchain projects. Feel free to reach out to me for discussions on Solidity, NFTs, Cryptocurrency, Blockchain, JavaScript, Node.js, ReactJS, databases, and more.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lPCp51akQbWcufD0GbwH9WTvFiT2sYzu/view?usp=sharing](https://drive.google.com/file/d/1lPCp51akQbWcufD0GbwH9WTvFiT2sYzu/view?usp=sharing)
-## Skills:
+📫 **How to reach me**: sk811585@gmail.com
 
-- Ethereum
-- Layer 2(Polygon)
-- NFTs
-- DeFi
-- Solidity
-- Hardhat
-- Foundry
-- Javascript
-- Mocha
-- Chai
-- Problem Solving
-- Data Structures
-- Node
-- React
-
+**Skills**:
+1. Ethereum
+2. Layer 2 (Polygon)
+3. NFTs
+4. DeFi
+5. Solidity
+6. Hardhat
+7. JavaScript
+8. ReactJS
+9. Web3
+10. Mocha
+11. Chai
+12. Problem Solving
+13. Data Structures
+14. Node.js
+15. PostgreSQL
+16. Database Management
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shivam8115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam8115" height="30" width="40" /></a>
